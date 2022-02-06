@@ -95,7 +95,7 @@ Node package Should be installed in The Device
    ```
 4. Run Project
    ```sh
-   npm start
+   npm start 
    ```
 
      
